@@ -44,6 +44,7 @@ flatpak install -y flathub io.github.shiftey.Desktop
 flatpak install -y flathub org.gnome.Boxes
 flatpak install -y flathub com.mattjakeman.ExtensionManager
 flatpak install -y flathub org.shotcut.Shotcut
+flatpak install -y flathub com.obsproject.Studio
 
 # Comentário sobre a Steam
 echo -e "\n# ATENÇÃO:"
